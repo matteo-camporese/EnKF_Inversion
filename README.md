@@ -8,3 +8,5 @@ The repository contains the following files/folders:
 - isotropy: ERT inversions for the isotropic scenarios;
 - anisotropy: ERT inversions for the anisotropic scenarios;
 - scenario4: results of coupled and uncoupled analyses on isotropic scenario 4.
+
+Please note that no technical assistance whatsoever can be provided, unless a formal research collaboration with the authors is established. For further information, contact matteo[dot]camporese[at]unipd[dot]it.
